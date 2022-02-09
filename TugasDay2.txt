@@ -1,0 +1,3 @@
+Nama :Roma Aliyafi
+Umur : 28 tahun
+Bahasa pemograman : Python
