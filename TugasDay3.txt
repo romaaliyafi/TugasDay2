@@ -1,0 +1,7 @@
+perbedaan tools ticketing dari trello vs jera vs youtrack
+analisis:
+-Alur penggunaan tools dari trello vs jira vs youtrack
+-kelebihan dari masing-masing tools
+-kekurangan dari ketiga tools
+
+kesimpulan mana yang dari keitga tools yang digunakanoleh refactory
