@@ -1,7 +1,76 @@
 perbedaan tools ticketing dari trello vs jera vs youtrack
-analisis:
--Alur penggunaan tools dari trello vs jira vs youtrack
--kelebihan dari masing-masing tools
--kekurangan dari ketiga tools
 
-kesimpulan mana yang dari keitga tools yang digunakanoleh refactory
+-Alur penggunaan 
+1. trello
+a. Membuat Board
+Board digunakan untuk membuat to di list proyek yang sedang dikerjakan, lengkap dengan keterangan dan berbagai informasi di dalamnya. Semua yang terlibat dalam proyek dapat melihat isi dari board tersebut. 
+b. Membuat Cards
+Fitur ini berguna untuk menampilkan tugas yang harus dikerjakan oleh para anggita yang tergabung pada workplace.
+c. Buat List
+Fitur ini bekerja layaknya workflow. Pengguna dapat menyusun sesuai kategori, misalnya akan dikerjakan/to do, sedang dikerjakan/doing, atau selesai/done. Aplikasi ini sangat efektif untuk memantau perkembangan suatu pekerjaan, terutama skala besar.
+
+2. Jira
+a. Membuat Scrum dan Kanban boards
+Dalam pengguaan Jira, Pembebuat project bisa memilih menggunakan Scrym board dan Kanban Board sesuai dengan kebutuhan dalam project tersebut dan fitur-fitr yang dibutuhkan
+b. Roadmaps
+Fitur roadmaps dapat membuat anggota tim mengetahui gambaran ke depan. Dengan adanya roadmaps, anggota tim akan lebih fokus terhadap apa yang dikerjakannya. Bahkan, team leader dapat memiliki kontrol penuh dengan berbagai pekerjaan yang dilakukan.
+c. Kustomisasi
+Aplikasi Jira menyediakan fitur kustomisasi, salah satu keunikan kustomisasi yang ditawarkan Jira adalah adanya kustomisasi emoji. Hal ini akan membuat task atau message yang diberikan akan lebih personal. 
+d. Konektivitas dengan aplikasi lain
+Dukungan untuk berbagai aplikasi ini dapat mempermudah proses pengerjaan suatu project. Pasalnya, tak dapat dipungkiri, dalam suatu project membutuhkan satu atau lebih aplikasi agar hasilnya maksimal.
+e. Pelaporan
+Salah satu fitur penting dalam aplikasi project management adalah adanya laporan atau reporting. Jira memberikan fitur pelaporan dengan visualisasi menarik, sehingga mempermudah pemangku kebijakan mengetahui hasilnya.
+
+3. yourtrack
+a. Agile Boards
+Youtrack menawarkan pilihan Board yang cukup banyak diantaranya scrum board, Kanban board, version-based board, custom board dan personal board
+b. Planning
+YouTrack hadir dengan banyak fitur untuk memprioritaskan tugas dan membuat estimasi yang realistis dan dapat dicapai.
+c. Reporting
+YouTrack dilengkapi dengan 20 laporan yang dapat dikonfigurasi dalam melacak, mengelola, dan menganalisis berbagai indikator kinerja dan kemajuan.
+d. Time Tracking
+Fitur Time Tracking YouTrack memudahkan untuk menyimpan catatan pekerjaan yang akurat. Pelaporan yang jelas dengan analisis mendetail memungkinkan Anda mengidentifikasi dan menghilangkan kendala dengan cepat, dan memastikan bahwa setiap waktu diperhitungkan.
+e. Dashboards
+Dashboards bisa digunakan untuk membuat kumpulan laporan dan informasi berguna lainnya di satu halaman. Pengguna dapat membuat Dashboards tanpa batas untuk kebutuhan pribadi, tim, dan pelanggan Anda.
+f. Integrations
+Youtrack terintegrasi dengan beberapa sistem phak ketiga untuk mempermudah perkerjaan
+g. YouTrack Mobile
+Youtrack memiliki Youtrack mobile yang bisa di install di Smartphone sehingga mempermudah dalam pengelolaan tugas dan proyek.
+
+kelebihan
+1. Trello
+a. apabila seseorang mengubah sesuatu, perubahan itu juga akan dilihat oleh siapa pun, tanpa perlu menunggu
+b. mudah dalam menambah atau mengurangi orang dalam suatu proyek
+c. desain yang responsif dan mudah digunakan
+d. sistem notifikasi yang baik
+e. tak perlu aplikasi atau tools tambahan untuk mengirim dokumen atau menulis keterangan mengenai suatu proyek
+
+2. Jira
+a. adanya template untuk mempermudah pemberian tugas
+b. dukungan komunitas dan pelatihan yang mumpuni
+c. mudah digunakan dan intuitif
+d.Konektivitas dengan aplikasi lain
+
+3. Youtrack
+a. Memiliki fitur yang lengkap
+b. Memiliki pilihan board yang banyak sehingga bisa disesuaikan dengan kebutuhan tugas atau project
+c. Tersedia dalam bentuk Mobile apps sehingga memudahkan untuk memantau perkembangan tugas atau project
+
+kekurangan
+1. Trello
+a. harus selalu terkoneksi dengan internet
+b. tidak bisa melakukan pengubahan atau edit komentar
+c. aplikasinya berbayar
+d. apabila proyek atau tugas semakin banyak, pengaturan tugas tetap sulit dilakukan
+
+2. Jira
+a. dukungan penggunaan website yang lambat
+b. masih adanya eror pada fitur-fitur baru
+c. harga yang kurang kompetitif
+
+3. Youtrack
+a. Tampilan kurang menarik
+b. Harga kurang kompetitif
+
+Kesimpulan 
+Dari ketika aplikasi tersebut Aplikasi Youtrack memiliki pilihan board lebih banyak dan fitur yang lengkap. Selain itu Youtrack tersedia dalam bentuak mobile app sehingga memudahkan kita untuk memantau perkembangan project. Sehingga saya menyarankan Youtrack diaplikasikan dalam pengerjaan tiket di refactory
